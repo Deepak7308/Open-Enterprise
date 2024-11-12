@@ -10,7 +10,6 @@ I created the routes to the other pages with react-router-dom. The landing page 
 
 ![preview](./.github/preview2.gif)
 
-Available here: [Open Enterprise - Vítor F. Nery](https://open-enterprise-vitorfnery.netlify.app/)
 
 ## 🛠️ Technologies 
 
